@@ -1,0 +1,20 @@
+/* Form Input */
+.form-group {
+    margin-bottom: 20px;
+}
+
+.action-link {
+    text-decoration: none;
+}
+
+#loader {
+    display: none;
+}
+
+.exp-btn {
+    padding: 8px 20px;
+    background-color: lightgreen;
+    border: none;
+    border-radius: 20px;
+    font-size: 12px;
+}
